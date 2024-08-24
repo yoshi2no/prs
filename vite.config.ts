@@ -20,9 +20,9 @@ export default defineConfig({
 		sveltekit(),
 		kitRoutes({
 			LINKS: {
-				domain: `https://pr.ryoppippi.com`,
-				repo: 'https://github.com/ryoppippi/pr.ryoppippi.com',
-				username: 'ryoppippi',
+				domain: `https://yoshi2no.dev`,
+				repo: 'https://github.com/yoshi2no/prs',
+				username: 'yoshi2no',
 			},
 		}),
 	],
